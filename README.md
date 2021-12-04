@@ -1,6 +1,6 @@
 # Simple_Shell Project
 
-![image](images/simple_shell_header.png)
+![image](https://github.com/mcarrascopiaggio/PreProjectShell/blob/master/images/Simple_Shell.png)
 
 We are Software Engineer students at  [Holberton School](https://www.holbertonschool.com/) and at the close of our first trimester we have to develop our own simple shell in c language.
 
