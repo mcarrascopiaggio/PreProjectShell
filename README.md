@@ -4,9 +4,16 @@
 
 We are Software Engineer students at  [Holberton School](https://www.holbertonschool.com/) and at the close of our first trimester we have to develop our own simple shell in c language.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mcarrascopiaggio/simple_shell)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mcarrascopiaggio/simple_shell)
+![GitHub last commit](https://img.shields.io/github/last-commit/mcarrascopiaggio/simple_shell)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mcarrascopiaggio/simple_shell)
 ![Lines of code](https://img.shields.io/tokei/lines/github/mcarrascopiaggio/simple_shell)
 
+## Table of Contents
+
+* [Project scope](#Project scope)
+* [General Requirements](#General Requirements)
+* [Program flow](#Program flow)
+* [File Structure](#File Structure)
 
 
 
