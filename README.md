@@ -8,14 +8,6 @@ We are Software Engineer students at  [Holberton School](https://www.holbertonsc
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mcarrascopiaggio/simple_shell)
 ![Lines of code](https://img.shields.io/tokei/lines/github/mcarrascopiaggio/simple_shell)
 
-## Table of Contents
-
-* [Project scope](#Project scope)
-* [General Requirements](#General Requirements)
-* [Program flow](#Program flow)
-* [File Structure](#File Structure)
-
-
 
 ## Project scope
 - UNIX command line interpreter in interactive and non interactive mode.
